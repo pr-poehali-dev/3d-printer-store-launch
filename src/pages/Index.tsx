@@ -30,7 +30,7 @@ const products: Product[] = [
     id: 1,
     name: 'Bambu Lab X1-Carbon',
     price: 149990,
-    image: 'https://cdn.poehali.dev/projects/0cafb0ab-a1a5-4b26-ac8e-5e3ba91f5915/files/cbe27ed5-7e8c-43bd-9e15-25487c9c9610.jpg',
+    image: 'https://cdn.poehali.dev/projects/0cafb0ab-a1a5-4b26-ac8e-5e3ba91f5915/files/3cf4bd17-13b8-4758-83a9-c75c62656ce6.jpg',
     category: 'Профессиональные',
     buildVolume: '256×256×256 мм',
     printSpeed: 500,
@@ -42,7 +42,7 @@ const products: Product[] = [
     id: 2,
     name: 'Bambu Lab P1P',
     price: 89990,
-    image: 'https://cdn.poehali.dev/projects/0cafb0ab-a1a5-4b26-ac8e-5e3ba91f5915/files/a3ca62be-1c85-4adc-a266-df3af48cf73a.jpg',
+    image: 'https://cdn.poehali.dev/projects/0cafb0ab-a1a5-4b26-ac8e-5e3ba91f5915/files/8c998926-224b-4a9d-8e7f-b23ff620f3c6.jpg',
     category: 'Для начинающих',
     buildVolume: '256×256×256 мм',
     printSpeed: 500,
@@ -54,7 +54,7 @@ const products: Product[] = [
     id: 3,
     name: 'Bambu Lab A1 Mini',
     price: 44990,
-    image: 'https://cdn.poehali.dev/projects/0cafb0ab-a1a5-4b26-ac8e-5e3ba91f5915/files/fa1e9654-d9aa-4496-8547-f4ee11e9e6f7.jpg',
+    image: 'https://cdn.poehali.dev/projects/0cafb0ab-a1a5-4b26-ac8e-5e3ba91f5915/files/bc9fe206-7367-49a6-ab26-c502536c862e.jpg',
     category: 'Компактные',
     buildVolume: '180×180×180 мм',
     printSpeed: 300,
@@ -66,7 +66,7 @@ const products: Product[] = [
     id: 4,
     name: 'Bambu Lab X1E',
     price: 179990,
-    image: 'https://cdn.poehali.dev/projects/0cafb0ab-a1a5-4b26-ac8e-5e3ba91f5915/files/cbe27ed5-7e8c-43bd-9e15-25487c9c9610.jpg',
+    image: 'https://cdn.poehali.dev/projects/0cafb0ab-a1a5-4b26-ac8e-5e3ba91f5915/files/eb3efd3c-af4b-4584-860b-1b2c8de96833.jpg',
     category: 'Профессиональные',
     buildVolume: '256×256×256 мм',
     printSpeed: 500,
@@ -77,7 +77,7 @@ const products: Product[] = [
     id: 5,
     name: 'Bambu Lab A1',
     price: 59990,
-    image: 'https://cdn.poehali.dev/projects/0cafb0ab-a1a5-4b26-ac8e-5e3ba91f5915/files/fa1e9654-d9aa-4496-8547-f4ee11e9e6f7.jpg',
+    image: 'https://cdn.poehali.dev/projects/0cafb0ab-a1a5-4b26-ac8e-5e3ba91f5915/files/b84242a9-0686-4e28-9c67-7d40c895836d.jpg',
     category: 'Для начинающих',
     buildVolume: '256×256×256 мм',
     printSpeed: 300,
@@ -88,7 +88,7 @@ const products: Product[] = [
     id: 6,
     name: 'Bambu Lab P1S',
     price: 109990,
-    image: 'https://cdn.poehali.dev/projects/0cafb0ab-a1a5-4b26-ac8e-5e3ba91f5915/files/a3ca62be-1c85-4adc-a266-df3af48cf73a.jpg',
+    image: 'https://cdn.poehali.dev/projects/0cafb0ab-a1a5-4b26-ac8e-5e3ba91f5915/files/b7ce152c-dd7a-4e04-9ae0-9cbffeac80ec.jpg',
     category: 'Профессиональные',
     buildVolume: '256×256×256 мм',
     printSpeed: 500,
@@ -302,7 +302,7 @@ const Index = () => {
                 <div className="relative">
                   <div className="absolute inset-0 bg-gradient-to-r from-primary/20 to-secondary/20 rounded-3xl blur-3xl animate-pulse"></div>
                   <img 
-                    src="https://cdn.poehali.dev/projects/0cafb0ab-a1a5-4b26-ac8e-5e3ba91f5915/files/cbe27ed5-7e8c-43bd-9e15-25487c9c9610.jpg" 
+                    src="https://cdn.poehali.dev/projects/0cafb0ab-a1a5-4b26-ac8e-5e3ba91f5915/files/3cf4bd17-13b8-4758-83a9-c75c62656ce6.jpg" 
                     alt="3D Printer" 
                     className="relative rounded-3xl shadow-2xl hover:scale-105 transition-transform duration-500"
                   />
